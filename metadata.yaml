@@ -1,0 +1,26 @@
+_repo: My-robot_73577
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, O.H.
+    gutenberg_agent_id: '57126'
+    url: http://www.gutenberg.org/2009/agents/57126
+description: ''
+gutenberg_issued: '2024-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73577'
+language: en
+pgterms:marc905: 20240319170405leslie
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My robot
+url: http://www.gutenberg.org/ebooks/73577
